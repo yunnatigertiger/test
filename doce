@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+	
+<link rel="shortcut icon" href="favicon.ico" >
+<head>
+    <title>Bará Doces</title>
+	<link rel="stylesheet" href="tbstyle.css">
+
+<style>
+ table {
+   width: 100%;
+   border-collapse: collapse;
+   margin-bottom: 20px;
+   margin-top:40px;
+   background-color: #c3f4a0;
+   font-family: Ink Free;
+   font-size: 20px;
+   
+ }
+ 
+ th, td {
+   border: 1px solid #ddd;
+   padding: 15px;
+   text-align: center;
+ }
+ 
+ 
+ th {
+   background-color: 		#008B8B	;
+   font-weight: bold;
+ }
+ 
+ td {
+   background-color: 	#FF7F50;
+   font-weight: bold;
+ }
+ img { 
+  width: 400px;
+  height: 400px;
+  border: 1px solid #ddd;
+  padding: 15px;
+  align: center;
+  }
+ 
+  h1  {
+   text-align: center;
+   font-family: Ink Free;
+   font-size: 40px;
+ }
+ 
+ video {
+  display: block;
+  margin: auto;
+  autoplay: true;
+}
+ 
+</style>
+</head>
+<body>
+<table>
+ <thead>
+ <h1>Bará Doces</h1>
+ <h1>Termo utilizado na Bíblia, em Gn 1, para indicar a criação divina. </h1>
+ <img src="encomende.jpg"/>
+ <img src="foto.jpg"/>
+ <img src="revenda.jpg"/>
+<video id=0 controls autoplay loop width=312 height=480 autoplay="true" >
+<source src="[freemake.com LOGO] video.mp4.webm" type='video/webm' >
+</video>
+<div id="_631cbe0ee9564a2bbf303a833cc991a9"</div>
+<script type="text/javascript">(function () {var h = function() { var el = document.getElementById('_631cbe0ee9564a2bbf303a833cc991a9');var t = document.createElement('a');t.setAttribute('href', 'https://www.freemake.com/free_video_downloader/');var f = false;if (f) t.setAttribute('rel', 'nofollow');t.style.cssText = "font-family: 'Arial'; font-size: 12px; color:blue; top: 6px; left: 6px;border-style: none; line-height:8px";el.appendChild(t);};var ds = document.readyState;if(ds == 'interactive' || ds == 'complete') { h(); }else document.onreadystatechange = function () {if (document.readyState == 'interactive') h();}}());</script></div>
+  </tbody> 
+</table>  
+ <body bgcolor="#008B8B"> 
+ </body>
+	</html>
